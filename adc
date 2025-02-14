@@ -1,0 +1,26 @@
+from machine import Pin, ADC
+from time import *
+from neopixel import NeoPixel
+
+analog_pin = Pin(1, Pin.IN)
+adc = ADC(analog_pin)
+
+#configure adc sensitivity
+adc.atten(ADC.ATTN_11DB)
+
+
+np = NeoPixel(Pin(35), 1)
+np7 = NeoPixel(Pin(7), 30)
+
+while True:
+    analog_val = adc.read()
+    #print(analog_val)
+    analog_val_8bit = int(analog_val/16)
+    print(analog_val_8bit)
+    sleep_ms(100)
+    
+    np[0] = (0,0, analog_val_8bit)
+    np.write()
+    for i in range(30):
+        np7[i] = (0,analog_val_8bit,0)
+    np7.write()
