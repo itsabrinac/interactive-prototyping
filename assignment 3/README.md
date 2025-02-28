@@ -10,7 +10,7 @@ This project is an interactive light prototype that uses an RGB LED strip and a 
   - **BREATH State:** After 3 seconds, a breathing (pulsing) effect is activated via a PWM-controlled LED until the copper tape is released.
 
 - **Concept Sketches & State Diagram:**
-![Concept Sketch](sabrina_light sketch&diagram.png)<img width="1169" alt="sabrina_light sketch diagram" src="https://github.com/user-attachments/assets/2acb650e-4d10-4b83-8edd-eb0cf37fe5ae" />
+<img width="1169" alt="sabrina_light sketch diagram" src="https://github.com/user-attachments/assets/2acb650e-4d10-4b83-8edd-eb0cf37fe5ae" />
 
 
 ## Hardware Components
