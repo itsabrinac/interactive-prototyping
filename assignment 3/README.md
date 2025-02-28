@@ -12,7 +12,8 @@ This project is an interactive light prototype that uses an RGB LED strip and a 
 - **Concept Sketches & State Diagram:**  
   ![Concept Sketch](images/sabrina_light sketch&diagram.png)
 
-- **Hardware Components:**
+## Hardware Components
+
 The hardware components used in this project include:
 
  - **M5 ATOM S3**
@@ -23,7 +24,7 @@ The hardware components used in this project include:
  - **COPPER TAPE**
  - **PAPER & CHOPSTICKS**
 
-- **Firmware:**
+## Firmware
 
 The firmware is written in MicroPython. Below is the main code that controls the interactive behaviors of the prototype. The code first turns the NeoPixel strip yellow for 3 seconds upon activation, then uses PWM on a separate LED to create a breathing effect until the input (copper tape) is released.
 
@@ -82,8 +83,14 @@ while True:
                     break
                 set_color((b, b, 0))
                 sleep_ms(20)
+```
 
-- **Project Outcome:**
+## Project Outcome
+
+Here's a photo of the finished prototype:
+
+![Project Outcome](images/IMG_9038.JPG)
+
 
   
 
