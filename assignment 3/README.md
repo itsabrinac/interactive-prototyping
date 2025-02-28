@@ -91,6 +91,9 @@ Here's a photo of the finished prototype:
 
 ![Project Outcome](images/IMG_9038.JPG)
 
+You can also view a short video demonstration of the prototype here:  
+[View Project Video](IMG_9040.MOV)
+
 
   
 
