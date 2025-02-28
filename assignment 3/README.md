@@ -9,8 +9,8 @@ This project is an interactive light prototype that uses an RGB LED strip and a 
   - **YELLOW State:** When the copper tape contacts (input activated), the LED strip turns yellow for 3 seconds.  
   - **BREATH State:** After 3 seconds, a breathing (pulsing) effect is activated via a PWM-controlled LED until the copper tape is released.
 
-- **Concept Sketches & State Diagram:**  
-  ![Concept Sketch](sabrina_light sketch&diagram.png)
+- **Concept Sketches & State Diagram:**
+![Concept Sketch](sabrina_light sketch&diagram.png)
 
 ## Hardware Components
 
