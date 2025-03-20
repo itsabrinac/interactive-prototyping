@@ -200,7 +200,6 @@ Figure 4: Screenshot of the completed game prototype.
 
 ## Video Demonstration
 
-[![Watch the video](https://drive.google.com/file/d/1Zvna5eYeU9TRgLNzIyA8TtcEPz9fLHBQ/view?usp=drive_link)  
-
+<iframe src="https://drive.google.com/file/d/1XJo9NxYdJLLQtZBURAWH4ZnCYIdrHxlE/preview" width="640" height="480" allow="autoplay"></iframe>
 Figure 5: Video walkthrough of the Capybara Adventure Game.
 
