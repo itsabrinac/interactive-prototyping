@@ -1,5 +1,5 @@
-![Concept Sketch](Slide 16_9 - 1.png)
-![Concept Sketch](glove_sketch.png)
+![Concept Sketch](Sabrina-Final/Slide 16_9 - 1.png)
+
 # TeaTalk: Interactive Tea-Drinking Discussion Experience
 
 ## Introduction
