@@ -1,4 +1,4 @@
-![Concept Sketch 1](Slide 16_9 - 1.png) 
+![Concept Sketch](Slide 16_9 - 1.png) 
 # TeaTalk: Interactive Tea-Drinking Discussion Experience
 
 ## Introduction
