@@ -214,6 +214,8 @@ Physical outcome:
   
 Video Walkthrough:
 
+<iframe src="https://drive.google.com/drive/u/0/folders/1BfrNCqkWdWgJJ4BBZqPRHI2dEF_i8DyR/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Conclusion  
 
 Creating TeaTalk was both rewarding and insightful, blending cultural rituals with modern technology. Challenges included sensor calibration and ensuring stable serial communication. Also try to detect details and make sure there is no typing mistake to screw up protopie. Given more time, future enhancements could provide more robust user identification to enhance personalization.
