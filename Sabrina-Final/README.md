@@ -1,4 +1,4 @@
-![Concept Sketch](Sabrina-Final/Slide 16_9 - 1.png)
+![Concept Sketch](Slide1.png)
 
 # TeaTalk: Interactive Tea-Drinking Discussion Experience
 
@@ -18,7 +18,7 @@ TeaTalk consists of hardware sensors integrated with firmware (MicroPython) runn
 
 ### State Diagram
   
-![Concept Sketch 1](Slide 16_9 - 5.png)   
+![Concept Sketch 1](Slide5.png)   
   
 ### Hardware
   
@@ -32,7 +32,7 @@ TeaTalk consists of hardware sensors integrated with firmware (MicroPython) runn
 
 ### Schematic or Wiring Diagram
 
-![Concept Sketch 1](Slide 16_9 - 9.png)
+![Concept Sketch 1](Slide9.png)
 
 ### Firmware   
 
@@ -198,8 +198,8 @@ I also activate API connection using protopie connect to integrate chatgpt and g
 ### Enclosure / Mechanical Design   
 
 I created a 3d model for a physical prototype, and laser-cut it out with cardboard to test the size and made some adjustments, then laser-cut the final product using MDF wood boards and acrylic board. I spray paint on it to finish the look.
-![Concept Sketch 1](Slide 16_9 - 10.png)
-![Concept Sketch 1](Slide 16_9 - 11.png)
+![Concept Sketch 1](Slide10.png)
+![Concept Sketch 1](Slide11.png)
 
 ## Project outcome  
 
@@ -210,7 +210,7 @@ TeaTalk delivers a seamless, elegant discussion ritual:
 * Fill-level Alerts: half-fill & full-fill icons
 
 Physical outcome:
-![Concept Sketch 1](Slide 16_9 - 12.png)
+![Concept Sketch 1](Slide12.png)
   
 Video Walkthrough:
 
