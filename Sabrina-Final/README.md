@@ -214,7 +214,7 @@ Physical outcome:
   
 Video Walkthrough:
 
-<iframe src="https://drive.google.com/drive/u/0/folders/1BfrNCqkWdWgJJ4BBZqPRHI2dEF_i8DyR/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/drive/u/0/folders/1BfrNCqkWdWgJJ4BBZqPRHI2dEF_i8DyR" width="640" height="480" allow="autoplay"></iframe>
 
 ## Conclusion  
 
