@@ -1,12 +1,21 @@
-## Introduction   
+# TeaTalk: Interactive Tea-Drinking Discussion Experience
 
-Provide a description of your initial project idea and include images of the concept sketches that you created in Part 1 of this assignment.  Explain the context and use case for the interactive physical prototype you've created (such as your home, school, city street, nature) as well as its intended audience. 
+## Introduction
+TeaTalk transforms the traditional tea-drinking ritual into an interactive social experience. During the 3-minute brew time, a digital screen guides participants through a series of prompts. Lifting the teapot, pouring tea, and lifting/placing teacups trigger questions, voice recording, and a dynamic “speech bubble” display of responses.
 
-## Implementation   
+**Context & Audience**  
+- **Context:** Living room, office lounge, or gallery installation  
+- **Use Case:** Ice-breaker sessions, team-building exercises, social gatherings  
+- **Audience:** Friends, coworkers, exhibition visitors
 
-Explain your process of prototype development including all applicable aspects such as hardware (electronics), firmware (MicroPython code), software (ProtoPie, HTML/CSS/JavaScript or other code), integrations (Adafruit IO, IFTTT, etc.), enclosure and mechanical design.  
+![Concept Sketch 1](images/concept-sketch-1.jpg)  
+![Concept Sketch 2](images/concept-sketch-2.jpg)
 
-In general, think of your audience as someone new trying to learn how to make your project and make sure to cover anything helpful to explain how it functions.  Use a separate subheader for each part:
+---
+
+## Implementation
+
+TeaTalk consists of hardware sensors integrated with firmware (MicroPython) running on an ESP32 (ATOM board), and software visuals created in ProtoPie. User interactions are detected via pressure and light sensors, translating physical actions into on-screen conversation prompts and animations.
 
 ### State Diagram
   
